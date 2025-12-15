@@ -1,0 +1,151 @@
+{
+  "app": {
+    "status": true,
+    "report_email": "youremail@gmail.com",
+    "privacy_policy_url": "https://sites.google.com/view/privacy-policy",
+    "more_apps_url": "https://rizkidevs.blogspot.com/",
+    "redirect_url": ""
+  },
+  "ads": {
+    "ad_status": true,
+    "main_ads": "admob",
+    "backup_ads": "none",
+    "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+    "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+    "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+    "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+    "admob_app_open_id": "ca-app-pub-3940256099942544/9257395921",
+    "ad_manager_banner_id": "/6499/example/banner",
+    "ad_manager_interstitial_id": "/6499/example/interstitial",
+    "ad_manager_rewarded_id": "/6499/example/rewarded",
+    "ad_manager_native_id": "/6499/example/native",
+    "ad_manager_app_open_id": "/6499/example/app-open",
+    "fan_banner_id": "YOUR_PLACEMENT_ID",
+    "fan_interstitial_id": "YOUR_PLACEMENT_ID",
+    "fan_rewarded_id": "YOUR_PLACEMENT_ID",
+    "fan_native_id": "YOUR_PLACEMENT_ID",
+    "startapp_app_id": "0",
+    "unity_game_id": "4089993",
+    "unity_banner_id": "banner",
+    "unity_interstitial_id": "video",
+    "unity_rewarded_id": "rewardedVideo",
+    "applovin_max_banner_id": "0",
+    "applovin_max_interstitial_id": "0",
+    "applovin_max_rewarded_id": "0",
+    "applovin_max_native_manual_id": "0",
+    "applovin_max_app_open_id": "0",
+    "applovin_discovery_banner_zone_id": "0",
+    "applovin_discovery_banner_mrec_zone_id": "0",
+    "applovin_discovery_interstitial_zone_id": "0",
+    "applovin_discovery_rewarded_zone_id": "0",
+    "ironsource_app_key": "85460dcd",
+    "ironsource_banner_id": "DefaultBanner",
+    "ironsource_interstitial_id": "DefaultInterstitial",
+    "ironsource_rewarded_id": "DefaultRewardedVideo",
+    "interstitial_ad_interval": 3,
+    "native_ad_interval": 10,
+    "native_ad_index": 7,
+    "native_ad_style_audio_list": "medium",
+    "native_ad_style_exit_dialog": "medium",
+    "placement": {
+      "banner_home": true,
+      "interstitial_audio_list": true,
+      "rewarded_audio_download": true,
+      "native_ad_audio_list": true,
+      "native_ad_exit_dialog": true,
+      "app_open_ad_on_start": true,
+      "app_open_ad_on_resume": true
+    }
+  },
+  "categories": [
+    {
+      "title": "KH Zainuddin MZ",
+      "image": "https://krzoneapp.xyz/ustadz/zainuddin.jpg"
+    },
+    {
+      "title": "KH Anwar Zahid",
+      "image": "https://krzoneapp.xyz/ustadz/anza.jpg"
+    },
+    {
+      "title": "Gus Baha",
+      "image": "https://krzoneapp.xyz/ustadz/baha.jpg"
+    },
+    {
+      "title": "Ustadz Das'ad Latif",
+      "image": "https://krzoneapp.xyz/ustadz/dasad.jpg"
+    },
+    {
+      "title": "Ustadz Adi Hidayat",
+      "image": "https://krzoneapp.xyz/ustadz/uah.jpg"
+    },
+    {
+      "title": "Ustadz Abdul Somad",
+      "image": "https://krzoneapp.xyz/ustadz/uas.jpg"
+    },
+    {
+      "title": "Ustadz Hanan Attaki",
+      "image": "https://krzoneapp.xyz/ustadz/hanan.jpg"
+    }
+  ],
+  "songs": [
+    {
+      "id": ,
+      "title": "Bahaya Free Sex",
+      "category": "KH Zainuddin MZ",
+      "image": "https://krzoneapp.xyz/ustadz/zainuddin.jpg",
+      "url": "https://archive.org/download/kumpulan-ceramah-kh-zainudin-mz/%20Bahaya%20Free%20Sex%20A.mp3?rewarded=true",
+      "lyric": ""
+    },
+    {
+      "id": ,
+      "title": "Anak Yatim yang Pengen Banggain Ibunya",
+      "category": "KH Anwar Zahid",
+      "image": "https://krzoneapp.xyz/ustadz/anza.jpg",
+      "url": "https://archive.org/download/ceramah-anwar-zahid-5/Anak%20Yatim%20yang%20Pengen%20Banggain%20Ibunya.mp3?rewarded=true",
+      "lyric": ""
+    },
+    {
+      "id": ,
+      "title": "ADAB KETIKA MEMBERI SEDEKAH",
+      "category": "Gus Baha",
+      "image": "https://krzoneapp.xyz/ustadz/baha.jpg",
+      "url": "https://archive.org/download/ceramah-gus-baha-2/ADAB%20KETIKA%20MEMBERI%20SEDEKAH%20PAHAMI%20INI%20YANG%20SERING%20MENGADAKAN%20SANTUNAN.mp3?rewarded=true",
+      "lyric": ""
+    },
+    {
+      "id": ,
+      "title": "30 Tahun Puasa tapi Lupa kuncinya",
+      "category": "Ustadz Das'ad Latif",
+      "image": "https://krzoneapp.xyz/ustadz/dasad.jpg",
+      "url": "https://archive.org/download/ceramah-ustad-dasad-latif-5/30%20Tahun%20Puasa%20tapi%20Lupa%20kuncinya.mp3?rewarded=true",
+      "lyric": ""
+    },
+    {
+      "id": ,
+      "title": "Amalan Cerdas Diwaktu Terbatas",
+      "category": "Ustadz Adi Hidayat",
+      "image": "https://krzoneapp.xyz/ustadz/uah.jpg",
+      "url": "https://archive.org/download/ceramah-ustadz-adi-hidayat-1/%20Amalan%20Cerdas%20Diwaktu%20Terbatas%20%20Ustadz%20Adi%20Hidayat.mp3?rewarded=true",
+      "lyric": ""
+    },
+    {
+      "id": ,
+      "title": "3 Perbuatan Haram Yang Luar Biasa",
+      "category": "Ustadz Abdul Somad",
+      "image": "https://krzoneapp.xyz/ustadz/uas.jpg",
+      "url": "https://archive.org/download/ceramah-ustad-abdul-somad-2_202408/3%20Perbuatan%20Haram%20Yang%20Luar%20Biasa.mp3?rewarded=true",
+      "lyric": ""
+    },
+    {
+      "id": ,
+      "title": "Jangan Khawatir Kalau Belum Jodoh",
+      "category": "Ustadz Hanan Attaki",
+      "image": "https://krzoneapp.xyz/ustadz/hanan.jpg",
+      "url": "https://archive.org/download/ceramah-ustadz-hanan-attaki-1/%20Jangan%20Khawatir%20Kalau%20Belum%20Jodoh%2C%20Bukan%20Itu%20Cintanya.mp3?rewarded=true",
+      "lyric": ""
+    }
+  ]
+
+}
+
+
