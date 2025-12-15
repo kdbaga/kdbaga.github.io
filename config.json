@@ -89,7 +89,7 @@
   ],
   "songs": [
     {
-      "id": 1,
+      "id": ,
       "title": "Bahaya Free Sex",
       "category": "KH Zainuddin MZ",
       "image": "https://krzoneapp.xyz/ustadz/zainuddin.jpg",
@@ -97,7 +97,7 @@
       "lyric": ""
     },
     {
-      "id": 2,
+      "id": ,
       "title": "Anak Yatim yang Pengen Banggain Ibunya",
       "category": "KH Anwar Zahid",
       "image": "https://krzoneapp.xyz/ustadz/anza.jpg",
@@ -105,7 +105,7 @@
       "lyric": ""
     },
     {
-      "id": 3,
+      "id": ,
       "title": "ADAB KETIKA MEMBERI SEDEKAH",
       "category": "Gus Baha",
       "image": "https://krzoneapp.xyz/ustadz/baha.jpg",
@@ -113,7 +113,7 @@
       "lyric": ""
     },
     {
-      "id": 4,
+      "id": ,
       "title": "30 Tahun Puasa tapi Lupa kuncinya",
       "category": "Ustadz Das'ad Latif",
       "image": "https://krzoneapp.xyz/ustadz/dasad.jpg",
@@ -121,7 +121,7 @@
       "lyric": ""
     },
     {
-      "id": 5,
+      "id": ,
       "title": "Amalan Cerdas Diwaktu Terbatas",
       "category": "Ustadz Adi Hidayat",
       "image": "https://krzoneapp.xyz/ustadz/uah.jpg",
@@ -129,7 +129,7 @@
       "lyric": ""
     },
     {
-      "id": 6,
+      "id": ,
       "title": "3 Perbuatan Haram Yang Luar Biasa",
       "category": "Ustadz Abdul Somad",
       "image": "https://krzoneapp.xyz/ustadz/uas.jpg",
@@ -137,7 +137,7 @@
       "lyric": ""
     },
     {
-      "id": 7,
+      "id": ,
       "title": "Jangan Khawatir Kalau Belum Jodoh",
       "category": "Ustadz Hanan Attaki",
       "image": "https://krzoneapp.xyz/ustadz/hanan.jpg",
@@ -147,4 +147,5 @@
   ]
 
 }
+
 
