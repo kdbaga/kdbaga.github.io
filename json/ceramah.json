@@ -93,7 +93,7 @@
   ],
   "songs": [
   {
-      "id": ,
+      "id": 1,
       "title": "Bahaya Free Sex",
       "category": "KH Zainuddin MZ",
       "image": "https://krzoneapp.xyz/ustadz/zainuddin.jpg",
@@ -101,7 +101,7 @@
       "lyric": ""
     },
     {
-      "id": ,
+      "id": 2,
       "title": "Anak Yatim yang Pengen Banggain Ibunya",
       "category": "KH Anwar Zahid",
       "image": "https://krzoneapp.xyz/ustadz/anza.jpg",
@@ -109,7 +109,7 @@
       "lyric": ""
     },
     {
-      "id": ,
+      "id": 3,
       "title": "ADAB KETIKA MEMBERI SEDEKAH",
       "category": "Gus Baha",
       "image": "https://krzoneapp.xyz/ustadz/baha.jpg",
@@ -1294,4 +1294,5 @@
     }
   ]
 }
+
 
